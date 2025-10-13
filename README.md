@@ -2,12 +2,12 @@
 
 
 o codigo foi particionado por etapas
-# Pré-processamento e modelo
-# Geração de embeddings com SBERT, Logistic Regression
-# Treinamento dos modelos KNN, Logistic Regression e SVM
-# Dataset gerado 
-# Embeddings de treino e validação
-# Rótulos dos conjuntos
+Pré-processamento e modelo
+Geração de embeddings com SBERT, Logistic Regression
+Treinamento dos modelos KNN, Logistic Regression e SVM
+Dataset gerado 
+Embeddings de treino e validação
+Rótulos dos conjuntos
 
 material ultilizado partiu de videos aulas:
 https://www.youtube.com/@DevAprender
